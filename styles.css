@@ -1,2 +1,21 @@
-
-/* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+	font-family:candara;
+	font-size:18px;
+	color:white
+}
+#navbar{
+	background-color:black;
+	
+}
+#navbar ul{
+height:30px;
+	list-style-type:none;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+#navbar a{
+	text-decoration:none;
+}
